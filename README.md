@@ -1,64 +1,86 @@
 <div align="center">
 
-<img src="./assets/cloud-banner.svg" width="100%" alt="Malak Khaled Shetat — DevOps and Cloud Engineer" />
+<img src="./assets/cloud-banner.svg" width="100%" alt="Malak Khaled Shetat — DevOps & Cloud Engineer" />
 
 <br/>
 
-**Building reliable cloud infrastructure, automating workflows, and securing delivery pipelines.**
+**☁️ Building reliable cloud infrastructure, automating workflows, and securing delivery pipelines.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9A1B9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-shetat-2959133a5)
-[![Email](https://img.shields.io/badge/Email-F2D9E4?style=flat-square&logo=gmail&logoColor=6B4055)](mailto:malakshetat78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-EAC4D5?style=flat-square&logo=github&logoColor=6B4055)](https://github.com/malakshetat78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C88EAB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-shetat-2959133a5)
+[![Email](https://img.shields.io/badge/Email-E5B8CC?style=for-the-badge&logo=gmail&logoColor=63384F)](mailto:malakshetat78@gmail.com)
 
 </div>
 
----
+<br/>
 
-### ☁️ About Me
+<img src="./assets/about-section.svg" width="100%" alt="About Me — DevOps, Cloud Engineering, Automation" />
 
-I'm **Malak**, focused on **DevOps and Cloud Engineering**. My experience includes AWS networking, CI/CD workflows, repository migration, cloud data architecture, and security-focused automation.
+<br/>
 
-During my **DevOps internship at Abou Ghaly Motors**, I worked on repository security reviews, cloud connectivity, and enterprise data architecture. I'm interested in making infrastructure more reliable, repeatable, and secure.
+I'm **Malak**, focused on **DevOps and Cloud Engineering**, with hands-on experience in AWS networking, CI/CD workflows, repository migration, cloud data architecture, and security-focused automation.
 
-### 🌷 What I Work With
+I enjoy making infrastructure more **reliable, repeatable, and secure**.
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-F8E9F0?style=flat-square&logo=amazonwebservices&logoColor=8B4E69)
-![Docker](https://img.shields.io/badge/Docker-F8E9F0?style=flat-square&logo=docker&logoColor=8B4E69)
-![Terraform](https://img.shields.io/badge/Terraform-F8E9F0?style=flat-square&logo=terraform&logoColor=8B4E69)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F8E9F0?style=flat-square&logo=githubactions&logoColor=8B4E69)
-![Linux](https://img.shields.io/badge/Linux-F8E9F0?style=flat-square&logo=linux&logoColor=8B4E69)
-![Git](https://img.shields.io/badge/Git-F8E9F0?style=flat-square&logo=git&logoColor=8B4E69)
-![Python](https://img.shields.io/badge/Python-F8E9F0?style=flat-square&logo=python&logoColor=8B4E69)
-
-![Trivy](https://img.shields.io/badge/Trivy-F3DDE7?style=flat-square&logoColor=8B4E69)
-![Checkov](https://img.shields.io/badge/Checkov-F3DDE7?style=flat-square&logoColor=8B4E69)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-F3DDE7?style=flat-square&logoColor=8B4E69)
-![Semgrep](https://img.shields.io/badge/Semgrep-F3DDE7?style=flat-square&logo=semgrep&logoColor=8B4E69)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-F2D6E3?style=flat-square&logoColor=63384F)
+![DevOps](https://img.shields.io/badge/DevOps-F2D6E3?style=flat-square&logoColor=63384F)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F2D6E3?style=flat-square&logoColor=63384F)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-F2D6E3?style=flat-square&logoColor=63384F)
+![Automation](https://img.shields.io/badge/Automation-F2D6E3?style=flat-square&logoColor=63384F)
 
 </div>
 
-### ✨ Selected Work
+<br/>
 
-| Project | What it explores |
-| --- | --- |
-| **[ICVSP · Intelligent Connected Vehicle Safety Platform](https://github.com/malakshetat78/Graduation-Project-)** | A connected-vehicle early-warning system, with cloud integration planned as part of the architecture. |
-| **[Enterprise Data Lakehouse Architecture](https://github.com/malakshetat78/agm-lakehouse-architecture)** | Enterprise data storage, processing, and analytics architecture. |
-| **[DevSecOps Lab](https://github.com/malakshetat78/devsecops-lab)** | Hands-on security tooling and DevSecOps practice. |
-| **[SAP to Lakehouse](https://github.com/malakshetat78/sap-to-lakehouse)** | Exploring SAP data integration and lakehouse concepts. |
+<img src="./assets/stack-section.svg" width="100%" alt="Tech Stack" />
 
-### 💼 Experience
+<br/>
 
-**DevOps Intern · Abou Ghaly Motors · 2026**
+<div align="center">
 
-- Reviewed repositories with **Trivy, Checkov, Gitleaks, and Semgrep**, documenting findings and remediation recommendations.
+![AWS](https://img.shields.io/badge/AWS-F4DDE8?style=for-the-badge&logo=amazonwebservices&logoColor=75445C)
+![Docker](https://img.shields.io/badge/Docker-F4DDE8?style=for-the-badge&logo=docker&logoColor=75445C)
+![Terraform](https://img.shields.io/badge/Terraform-F4DDE8?style=for-the-badge&logo=terraform&logoColor=75445C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F4DDE8?style=for-the-badge&logo=githubactions&logoColor=75445C)
+![Linux](https://img.shields.io/badge/Linux-F4DDE8?style=for-the-badge&logo=linux&logoColor=75445C)
+![Git](https://img.shields.io/badge/Git-F4DDE8?style=for-the-badge&logo=git&logoColor=75445C)
+![Python](https://img.shields.io/badge/Python-F4DDE8?style=for-the-badge&logo=python&logoColor=75445C)
+
+![Trivy](https://img.shields.io/badge/Trivy-E8BDD0?style=for-the-badge&logoColor=63384F)
+![Checkov](https://img.shields.io/badge/Checkov-E8BDD0?style=for-the-badge&logoColor=63384F)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-E8BDD0?style=for-the-badge&logoColor=63384F)
+![Semgrep](https://img.shields.io/badge/Semgrep-E8BDD0?style=for-the-badge&logo=semgrep&logoColor=63384F)
+
+</div>
+
+<br/>
+
+### 🌸 Selected Projects
+
+<img src="./assets/projects-section.svg" width="100%" alt="Four pink project cards for ICVSP, Enterprise Data Lakehouse, DevSecOps Lab and SAP to Lakehouse" />
+
+<div align="center">
+
+[**ICVSP**](https://github.com/malakshetat78/Graduation-Project-) · [**Enterprise Data Lakehouse**](https://github.com/malakshetat78/agm-lakehouse-architecture) · [**DevSecOps Lab**](https://github.com/malakshetat78/devsecops-lab) · [**SAP to Lakehouse**](https://github.com/malakshetat78/sap-to-lakehouse)
+
+</div>
+
+<br/>
+
+<img src="./assets/experience-section.svg" width="100%" alt="Experience — DevOps Intern at Abou Ghaly Motors, 2026" />
+
+<br/>
+
+- Reviewed GitHub repositories using **Trivy, Checkov, Gitleaks, and Semgrep**, with remediation reports.
 - Contributed to an **Enterprise Data Lakehouse** architecture.
 - Configured and validated **AWS Site-to-Site VPN** connectivity.
-- Migrated repositories from **Azure DevOps to GitHub**, including CI/CD workflow configuration.
+- Migrated repositories from **Azure DevOps to GitHub** and configured CI/CD workflows.
 
----
+<br/>
 
 <div align="center">
-  <sub>☁️ Cloud · DevOps · Automation</sub>
+
+**☁️ Cloud · DevOps · Automation**
+
 </div>
