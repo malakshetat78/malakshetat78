@@ -7,4 +7,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C88EAB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-shetat-2959133a5)
 [![Email](https://img.shields.io/badge/Email-E5B8CC?style=for-the-badge&logo=gmail&logoColor=63384F)](mailto:malakshetat78@gmail.com)
 
+<br/><br/>
+
+### 🌸 Contribution Activity
+
+<img src="https://ghchart.rshah.org/D88EAD/malakshetat78" alt="Malak's GitHub contributions in a pink activity heatmap" width="95%" />
+
+<sub>GitHub contribution activity · soft pink theme</sub>
+
 </div>
